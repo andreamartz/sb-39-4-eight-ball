@@ -5,7 +5,7 @@
 
 .EightBall-img {
   border-radius: 50%;
-  background-color: black;
+  /* background-color: black; */
   height: 300px;
   width: 300px;
   display: flex;
@@ -15,5 +15,5 @@
 
 .EightBall-text {
   color: white;
-
+  font-weight: bold;
 }
