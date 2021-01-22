@@ -1,3 +1,4 @@
+import React from "react";
 import EightBall from './EightBall';
 import './App.css';
 
